@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JoyFreire
-- 👀 I’m interested in ... Front-End and UX Design
-- 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... anything that will help me grow
 - 📫 How to reach me ... 
 
