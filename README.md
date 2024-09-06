@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JoyFreire
-- 💞️ I’m looking to collaborate on ... anything that will help me grow
-- 📫 How to reach me ... 
+
 
 <!---
 JoyFreire/JoyFreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
